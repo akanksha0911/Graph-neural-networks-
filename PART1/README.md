@@ -1,2 +1,2 @@
 
-### Node classification using GAT/GCN
+### Node classification using GAT/GCN.
