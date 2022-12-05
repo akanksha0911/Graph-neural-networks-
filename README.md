@@ -1,12 +1,12 @@
 # Graph-neural-networks
 Graph neural networks 
 
-Part a) Do graph level prediction using GAT/GCN
+Part 1) Do graph level prediction using GAT/GCN
 
 
-Part b) Do a Node classification using GAT/GCN
+Part 2) Do a Node classification using GAT/GCN
 
-Part c) Do an link  prediction of graph
+Part 3) Do an link  prediction of graph
 
 # References to complete this assignment:
 
